@@ -5,6 +5,7 @@ file = open("INPUT.txt", 'r', encoding = "utf-8")
 new_text = file.readlines()
 
 # Create a list to keep all the words in file
+#new text
 words = []
 line_break = 0
 
